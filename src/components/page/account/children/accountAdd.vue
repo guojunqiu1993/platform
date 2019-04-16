@@ -28,17 +28,6 @@
                   </el-option>
               </el-select>
               <span class="form_hint" style="margin:10px 0px 0px 0;">提示:请先选择所属组织再选择角色类型</span>
-              <!-- <div class="role-container">
-                <div class="role-item"><span title="中弘超级管理员1">中弘超级管理员1</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员2">中弘超级管理员2</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员3">中弘超级管理员3</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员1">中弘超级管理员1</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员2">中弘超级管理员2</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员3">中弘超级管理员3</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员1">中弘超级管理员1</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员2">中弘超级管理员2</span><i class="iconfont icon-shanchu2"></i></div>
-                <div class="role-item"><span title="中弘超级管理员3">中弘超级管理员3</span><i class="iconfont icon-shanchu2"></i></div>
-              </div> -->
             </el-form-item>
 
 
