@@ -7,7 +7,7 @@
           <el-button type="primary" class="handle-exportDownload mr10" @click="exportDownload()"><i class="iconfont icon-xiafa"></i><span class="span">导入模板下载</span></el-button>
           <el-button type="primary" class="handle-export mr10" @click="exportAll()"><i class="iconfont icon-export"></i><span class="span">导入</span></el-button>
           <el-button type="primary" class="handle-new mr10" @click="newSingle()"><i class="iconfont icon-create-orders"></i><span class="span">新建</span></el-button>
-          <el-button type="primary" class="handle-del mr10" @click="delAll()"><i class="iconfont icon-shanchu2"></i><span class="span">删除 </span></el-button>
+          <el-button type="primary" class="handle-del mr10" @click="delAll()"><i class="iconfont icon-shanchu2"></i><span class="span">删除</span></el-button>
         </div>
         <div class="container">
               <div class="handle-box">
