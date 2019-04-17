@@ -106,7 +106,7 @@
             <el-form-item label="qq号" prop="qq_number">
               <el-input v-model="formData.qq_number"></el-input>
             </el-form-item>
-            <!-- <el-form-item label="服务组织1" >
+            <!-- <el-form-item label="服务组织">
               <el-select placeholder="请选择" class="handle-select" >
                   <el-option
                     v-for="item in orlseverOptions"
