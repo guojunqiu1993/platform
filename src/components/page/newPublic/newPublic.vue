@@ -2,7 +2,7 @@
     <div class="table" style="postion:relative;">
         <div class="crumbs">
           <el-breadcrumb separator="">
-              <el-breadcrumb-item><i class="iconfont icon-shouye"></i>最新舆情</el-breadcrumb-item>
+              <el-breadcrumb-item><i class="iconfont icon-shouye"></i> 最新舆情</el-breadcrumb-item>
           </el-breadcrumb>
           <el-button  type="primary" class="handle-export mr10" @click="newGet"><i class="iconfont icon-shuaxin"></i><span class="span">获取</span></el-button>
           <el-button  type="primary" class="handle-new mr10" @click="newSingle"><i class="iconfont icon-create-orders"></i><span class="span">添加</span></el-button>
