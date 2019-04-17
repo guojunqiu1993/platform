@@ -2,7 +2,7 @@
     <div class="table">
         <div class="crumbs">
           <el-breadcrumb separator="/">
-              <el-breadcrumb-item><i class="iconfont icon-shouye"></i> 字典管理</el-breadcrumb-item>
+              <el-breadcrumb-item><i class="iconfont icon-shouye"></i>字典管理</el-breadcrumb-item>
           </el-breadcrumb>
           <el-button type="primary" class="handle-new mr10" @click="newSingle()" style="right:40px;"><i class="iconfont icon-create-orders"></i><span class="span">新建</span></el-button>
           <el-button type="primary" class="handle-del mr10" @click="delAll()" style="display:none;"><i class="iconfont icon-shanchu2"></i><span class="span">删除</span></el-button>

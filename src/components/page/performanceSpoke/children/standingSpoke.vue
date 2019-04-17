@@ -2,7 +2,7 @@
     <div class="table">
         <div class="crumbs">
           <el-breadcrumb separator="/">
-              <el-breadcrumb-item><i class="iconfont icon-shouye"></i> 绩效考核</el-breadcrumb-item>
+              <el-breadcrumb-item><i class="iconfont icon-shouye"></i>绩效考核</el-breadcrumb-item>
               <el-breadcrumb-item>考核台账</el-breadcrumb-item>
           </el-breadcrumb>
           <el-button type="primary" class="handle-new mr10"><i class="iconfont icon-xiafa"></i><span class="span">导出</span></el-button>
