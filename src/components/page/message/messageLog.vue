@@ -2,7 +2,7 @@
     <div class="table">
       <div class="crumbs">
           <el-breadcrumb separator="/">
-              <el-breadcrumb-item><i class="iconfont icon-shouye"></i> 日志管理</el-breadcrumb-item>
+              <el-breadcrumb-item><i class="iconfont icon-shouye"></i>日志管理</el-breadcrumb-item>
               <el-breadcrumb-item>消息发送日志</el-breadcrumb-item>
           </el-breadcrumb>
           <el-button type="primary" class="handle-export mr10" @click="exportAll"><i class="iconfont icon-xiafa"></i><span class="span">导出</span></el-button>
